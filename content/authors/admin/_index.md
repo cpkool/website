@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Colin Kuehl
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Colin
+last_name: Kuehl
 
 # Status emoji
 status:
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Political Science and Environmental Studies
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northern Illinois University
+    url: https://www.niu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a political scientist interested in why important actors, like countries and people, behave the way they do toward the environment. My research explores this broad question across different political domains and levels of analysis, from motivating individuals to conserve water, to what makes countries more likely to ratify multi-lateral environmental agreements. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Behavior
+  - Water Conservation
+  - Experiments
 
 # Education to show in About widget
 education:
